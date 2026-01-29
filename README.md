@@ -1,4 +1,4 @@
-# KNN-RRT Yol Planlama için Smooth Path Oluşturma
+# KNN Destekli RRT Yol Planlamada Daha Yumuşak Geçişli Yol Üretimi için Eğri Tabanlı İyileştirme Yaklaşımları
 
 Bu proje, **KNN-RRT (k-Nearest Neighbor Rapidly-exploring Random Tree)** algoritması çıktısı olduğu varsayılan düzensiz (raw) yol noktalarını,
 farklı yumuşatma (smoothing) teknikleri kullanarak daha düzgün ve takip edilebilir bir yol haline getirmeyi amaçlar.
